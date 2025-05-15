@@ -1,2 +1,2 @@
-# -Python-National-weather-information-integration-system-based-on-Python-
-基于Python的全国天气信息整合系统
+# 基于Python的全国天气信息整合系统
+This system uses the real-time data of qweather and designs a visual interface to manage the weather conditions of different cities across the country (taking Chinese cities as an example). It has the functions of forecasting, viewing the real-time weather conditions of cities, adding, deleting, modifying and checking cities. A separate archive is used for added/deleted cities so that they can be used directly next time.
